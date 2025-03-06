@@ -1,0 +1,27 @@
+# Bytecode files  
+__pycache__/  
+*.pyc  
+*.pyo  
+
+# Config & Secrets  
+config.py  
+
+# Database files  
+*.sqlite3  
+*.db  
+
+# Logs & Temp Files  
+logs/  
+*.log  
+tmp/  
+
+# System Files  
+.DS_Store  
+Thumbs.db  
+
+# IDE Files  
+.vscode/  
+.idea/  
+
+# GitHub 
+.gitattributes
