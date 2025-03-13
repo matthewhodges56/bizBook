@@ -57,7 +57,7 @@ document.getElementById("btnLogin").addEventListener("click", async function(){
                 const data = await response.json();
                 if (data.success) {
                     // Redirect to a protected page or update the UI
-                    window.location.href = '/dashboard';  // Example redirect
+                    window.location.href = '/';  // Example redirect
                 } else {
                     // error
                 }
