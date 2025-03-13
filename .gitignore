@@ -25,3 +25,6 @@ Thumbs.db
 
 # GitHub 
 .gitattributes
+
+# System Environment Variables
+.env
